@@ -1,0 +1,16 @@
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\bin\Debug\net5.0\Lab4_10.exe
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\bin\Debug\net5.0\Lab4_10.deps.json
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\bin\Debug\net5.0\Lab4_10.runtimeconfig.json
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\bin\Debug\net5.0\Lab4_10.runtimeconfig.dev.json
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\bin\Debug\net5.0\Lab4_10.dll
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\bin\Debug\net5.0\Lab4_10.pdb
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\Lab4_10.csproj.AssemblyReference.cache
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\Lab4_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\Lab4_10.AssemblyInfoInputs.cache
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\Lab4_10.AssemblyInfo.cs
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\Lab4_10.csproj.CoreCompileInputs.cache
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\Lab4_10.dll
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\refint\Lab4_10.dll
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\Lab4_10.pdb
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\Lab4_10.genruntimeconfig.cache
+C:\Users\alros\source\repos\Lab4_10\Lab4_10\obj\Debug\net5.0\ref\Lab4_10.dll

@@ -1,0 +1,16 @@
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\bin\Debug\net5.0\Lab4_1.exe
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\bin\Debug\net5.0\Lab4_1.deps.json
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\bin\Debug\net5.0\Lab4_1.runtimeconfig.json
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\bin\Debug\net5.0\Lab4_1.runtimeconfig.dev.json
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\bin\Debug\net5.0\Lab4_1.dll
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\bin\Debug\net5.0\Lab4_1.pdb
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\Lab4_1.csproj.AssemblyReference.cache
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\Lab4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\Lab4_1.AssemblyInfoInputs.cache
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\Lab4_1.AssemblyInfo.cs
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\Lab4_1.csproj.CoreCompileInputs.cache
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\Lab4_1.dll
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\refint\Lab4_1.dll
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\Lab4_1.pdb
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\Lab4_1.genruntimeconfig.cache
+C:\Users\alros\source\repos\Lab4_1\Lab4_10\obj\Debug\net5.0\ref\Lab4_1.dll
